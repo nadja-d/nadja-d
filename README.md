@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadja-d&show_icons=true&locale=en&layout=compact" alt="nadja-d" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadja-d)](https://github.com/nadja-d/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadja-d&show_icons=true&locale=en" alt="nadja-d" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
